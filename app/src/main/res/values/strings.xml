@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string-array name="spinner">
+        <item>City</item>
+        <item>Lahore</item>
+
+        <item>Karachi</item>
+
+        <item>Islamabad</item>
+
+        <item>Rawalpindi</item>
+
+        <item>Sialkot</item>
+
+        <item>Attock</item>
+
+        <item>Narowal</item>
+
+
+    </string-array>
+</resources>
